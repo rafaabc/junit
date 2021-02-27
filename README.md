@@ -1,5 +1,7 @@
 # Framework of automated tests with JUnit, Java, and Maven
 
+[![Build](https://github.com/rafaabc/junit/actions/workflows/sonar.yml/badge.svg)](https://github.com/rafaabc/junit/actions/workflows/sonar.yml)
+
 <p align="justify"> Framework to test in the unit layer.</p>
 
 <p align="justify"> To practice this I built a class to calculate the Body Mass Index (BMI) and a test
