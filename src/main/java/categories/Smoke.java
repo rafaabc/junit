@@ -1,4 +1,4 @@
-package categorias;
+package categories;
 
 public interface Smoke {
 }

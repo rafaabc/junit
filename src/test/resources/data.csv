@@ -1,0 +1,12 @@
+height | weight  | result
+1.77   | 50    | Underweight
+1.77   | 58    | Normal weight
+1.77   | 65    | Normal weight
+1.77   | 78    | Normal weight
+1.77   | 78.35 | Overweight
+1.77   | 82    | Overweight
+1.77   | 93.50 | Overweight
+1.77   | 94    | Obesity
+1.77   | 100   | Obesity
+1.77   | 125   | Obesity
+1.77   | 130   | Severely obesity
