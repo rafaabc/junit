@@ -1,6 +1,6 @@
 # Framework of automated tests with JUnit, Java, and Maven
 
-<p align="justify"> Framework to test in the unity layer.</p>
+<p align="justify"> Framework to test in the unit layer.</p>
 
 <p align="justify"> To practice this I built a class to calculate the Body Mass Index (BMI) and a test
 class to test the methods of retrieving a result based on a size and a weight of a
