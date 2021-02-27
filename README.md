@@ -1,6 +1,7 @@
 # Framework of automated tests with JUnit, Java, and Maven
 
 [![Build](https://github.com/rafaabc/junit/actions/workflows/sonar.yml/badge.svg)](https://github.com/rafaabc/junit/actions/workflows/sonar.yml)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=rafaabc_junit&metric=alert_status)](https://sonarcloud.io/dashboard?id=rafaabc_junit)
 
 <p align="justify"> Framework to test in the unit layer.</p>
 
