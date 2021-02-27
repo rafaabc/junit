@@ -1,1 +1,1 @@
-Framework de Teste Unitário (em desenvolvimento)
+# Framework de Teste Automatizado com JUnit, Java, e Maven
