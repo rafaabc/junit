@@ -6,13 +6,14 @@
 class to test the methods of retrieving a result based on a size and a weight of a
 person.</p>
 
-<p align="justify"> I used a data-driven approach to run the class using a csv file
+<p align="justify"> I used a data-driven approach to run the test class using a csv file
 with different data and also a structure of Suites so I can run tests in an
-optimized way. There are 2 Suites of tests basically. On with Positive scenarios
-and another with Smoke tests with the most important ones. It is possible to run
-the tests with CLI and the results we can view with Allure Report.</p>
+optimized way. There are 3 Suites of tests basically. One with Positive scenarios
+and another with Smoke tests with the most important ones. A third Suite runs all test classes as long as
+I parameterize them. It is also possible to run the tests with CLI and the results we can
+view with Allure Report.</p>
 
-# Requisites
+# Pre-conditions
 
 Tools:
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/download)
@@ -64,14 +65,14 @@ Dependências:
 - resources: dir with csv file
 
 # CLI
-<p align="justify"> Run all test classes through command line </p>
+<p align="justify"> Run all test classes through command line: </p>
 
 ` mvn surfire:test`
 
 <p align="justify"> As soon as the tests are executed, a folder will be created inside the "target" directory, called "surefire-reports". </p>
 
 # Report
-<p align="justify"> Open the Allure test report via the command line: </p>
+<p align="justify"> Open the Allure test report via command line: </p>
 
 `allure serve /PATH`*
 
