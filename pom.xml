@@ -24,9 +24,6 @@
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
-        <sonar.projectKey>rafaabc_junit</sonar.projectKey>
-        <sonar.organization>rafaabc</sonar.organization>
-        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
 
     <dependencies>
