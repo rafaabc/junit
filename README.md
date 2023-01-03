@@ -29,7 +29,7 @@ Dependências:
 # Project Structure
 
 ```
-./projet
+./project
 ├─ src/
     ├─ main
        └─ java/
